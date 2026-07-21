@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     double num1, num2, sum;
     cout << "Enter the first number: ";
     cin >> num1;
